@@ -1,0 +1,46 @@
+h1{
+	margin: 3%;
+	font-size: 13rem;
+	line-height: 0.3;
+	opacity: 0.7;
+	font-weight: bold;
+}
+body{
+	background-color: #e8ded2;
+	opacity: 0.6;
+	padding: 40px;
+	font-family: 'Montserrat', sans-serif;
+}
+.five{
+	color: #9dad7f;
+}
+.four{
+	color: #393b44;
+}
+.three{
+	color: #f0a500;
+}
+.two{
+	color: #ee6f57;
+}
+.one{
+	color: #cc0e74;
+	position: relative;
+	top: -15px;
+}
+.wish{
+	line-height: 0.5;
+	font-size: 1.5rem;
+	font-weight: normal;
+	position: relative;
+	top: 20px;
+}
+.cheers{
+	font-weight: bold;
+	font-size: 2rem;
+	text-align: center;
+	
+}
+.row{
+	padding: 5%;
+}
